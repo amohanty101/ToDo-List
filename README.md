@@ -17,8 +17,11 @@ Run npm start to start the development server.
 Open http://localhost:8080 to view it in the browser.
 
 # Features
-List ToDo 
+List ToDo
+
 Add a ToDO item
+
 Remove a ToDO item
+
 Style your component
 
